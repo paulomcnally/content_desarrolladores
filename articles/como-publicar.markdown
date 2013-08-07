@@ -5,7 +5,7 @@
 2.  Convertir el título a slug: **hola-mundo**
 3.  Crear un archivo JSON con el nombre del slug: **[hola-mundo.json](https://gist.github.com/paulomcnally/6163629)** y guardarlo en la carpeta **[articles](https://github.com/paulomcnally/content_desarrolladores/blob/master/articles)**
 4.  Crear un archivo MARKDOWN con el nombre del slug: **[hola-mundo.markdown](https://gist.github.com/paulomcnally/6163909)** y guardarlo en la carpeta **[articles](https://github.com/paulomcnally/content_desarrolladores/blob/master/articles)**
-5.  Si es su primer artículo, crear un archivo JSON con su nombre pero como slug reemplazando los espacios por guiones (**-**). Ejemplo: paulomcnally.json y guardarlo en la carpeta **[authors](https://github.com/paulomcnally/content_desarrolladores/blob/master/authors)**. Importante: El parámetro **author** en el archivo **hola-mundo.json** debera ser el nombre de este archivo sin la extension (**.json**)
+5.  Si es su primer artículo, crear un archivo JSON con su nombre pero como slug reemplazando los espacios por guiones (**-**). Ejemplo: paulomcnally.json y guardarlo en la carpeta **[authors](https://github.com/paulomcnally/content_desarrolladores/blob/master/authors)**. Importante: El parámetro **author** en el archivo **hola-mundo.json** debera ser el nombre de este archivo sin la extensión (**.json**)
 
 
 ## hola-mundo.json
@@ -78,6 +78,10 @@ Crear archivo desde github.com:
 
 [paulomcnally.json](https://github.com/paulomcnally/content_desarrolladores/new/master?filename=authors/paulomcnally.json) (Reemplazar con su nombre en formato slug)
 
+
+## Importante:
+
+Para que tu publicación se muestre en el sitio el moderador debera aceptar tu "pull request".
 
 Si tienes dudas por favor deja tu comentario.
 
