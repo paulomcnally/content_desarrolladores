@@ -81,7 +81,7 @@ Crear archivo desde github.com:
 
 ## Importante:
 
-Para que tu publicación se muestre en el sitio el moderador debera aceptar tu "pull request".
+Para que tu publicación se muestre en el sitio el moderador deberá aceptar tu "pull request", luego de eso ya estara disponible tu publicación en el sitio.
 
 Si tienes dudas por favor deja tu comentario.
 
