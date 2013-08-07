@@ -1,11 +1,11 @@
 [Cómo publicar](/articulo/como-publicar)
-==============================
+========================================
 
 1.  Seleccionar un título. Ejemplo: **Hola mundo**
 2.  Convertir el título a slug: **hola-mundo**
-3.  Crear un archivo JSON con el nombre del slug: **[hola-mundo.json](https://gist.github.com/paulomcnally/6163629)** y guardarlo en la carpeta **[articles](https://github.com/paulomcnally/desarrolladores.com.ni/blob/master/articles)**
-4.  Crear un archivo MARKDOWN con el nombre del slug: **[hola-mundo.markdown](https://gist.github.com/paulomcnally/6163909)** y guardarlo en la carpeta **[articles](https://github.com/paulomcnally/desarrolladores.com.ni/blob/master/articles)**
-5.  Si es su primer artículo, crear un archivo JSON con su nombre pero como slug reemplazando los espacios por guiones (**-**). Ejemplo: paulomcnally.json y guardarlo en la carpeta **[authors](https://github.com/paulomcnally/desarrolladores.com.ni/blob/master/authors)**. Importante: El parámetro **author** en el archivo **hola-mundo.json** debera ser el nombre de este archivo sin la extension (**.json**)
+3.  Crear un archivo JSON con el nombre del slug: **[hola-mundo.json](https://gist.github.com/paulomcnally/6163629)** y guardarlo en la carpeta **[articles](https://github.com/paulomcnally/content_desarrolladores/blob/master/articles)**
+4.  Crear un archivo MARKDOWN con el nombre del slug: **[hola-mundo.markdown](https://gist.github.com/paulomcnally/6163909)** y guardarlo en la carpeta **[articles](https://github.com/paulomcnally/content_desarrolladores/blob/master/articles)**
+5.  Si es su primer artículo, crear un archivo JSON con su nombre pero como slug reemplazando los espacios por guiones (**-**). Ejemplo: paulomcnally.json y guardarlo en la carpeta **[authors](https://github.com/paulomcnally/content_desarrolladores/blob/master/authors)**. Importante: El parámetro **author** en el archivo **hola-mundo.json** debera ser el nombre de este archivo sin la extension (**.json**)
 
 
 ## hola-mundo.json
@@ -53,15 +53,15 @@
     }
 
 
-Ahora es necesario subir/crear estos archivos en el repositorio [https://github.com/paulomcnally/desarrolladores.com.ni](https://github.com/paulomcnally/desarrolladores.com.ni).
+Ahora es necesario subir/crear estos archivos en el repositorio [https://github.com/paulomcnally/content_desarrolladores](https://github.com/paulomcnally/content_desarrolladores).
 
 Se puede hacer de dos formas:
 
 Clonar el repositorio, agregar los archivos y subir los cambios.
 
 
-    git clone https://github.com/paulomcnally/desarrolladores.com.ni.git
-    cd desarrolladores.com.ni
+    git clone https://github.com/paulomcnally/content_desarrolladores.git
+    cd content_desarrolladores
     mv /path/to/hola-mundo.json articles/hola-mundo.json
     mv /path/to/hola-mundo.markdown articles/hola-mundo.markdown
     mv /path/to/paulomcnally.json authors/paulomcnally.json
@@ -72,11 +72,11 @@ Clonar el repositorio, agregar los archivos y subir los cambios.
 
 Crear archivo desde github.com:
 
-[hola-mundo.json](https://github.com/paulomcnally/desarrolladores.com.ni/new/master?filename=articles/hola-mundo.json) (Reemplazar con el título del artículo en formato slug)
+[hola-mundo.json](https://github.com/paulomcnally/content_desarrolladores/new/master?filename=articles/hola-mundo.json) (Reemplazar con el título del artículo en formato slug)
 
-[hola-mundo.markdown](https://github.com/paulomcnally/desarrolladores.com.ni/new/master?filename=articles/hola-mundo.markdown) (Reemplazar con el título del artículo en formato slug)
+[hola-mundo.markdown](https://github.com/paulomcnally/content_desarrolladores/new/master?filename=articles/hola-mundo.markdown) (Reemplazar con el título del artículo en formato slug)
 
-[paulomcnally.json](https://github.com/paulomcnally/desarrolladores.com.ni/new/master?filename=authors/paulomcnally.json) (Reemplazar con su nombre en formato slug)
+[paulomcnally.json](https://github.com/paulomcnally/content_desarrolladores/new/master?filename=authors/paulomcnally.json) (Reemplazar con su nombre en formato slug)
 
 
 Si tienes dudas por favor deja tu comentario.
