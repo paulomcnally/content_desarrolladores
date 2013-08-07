@@ -1,0 +1,17 @@
+{
+    "name": "Paulo McNally",
+    "email": "paulomcnally@gmail.com",
+    "web": "http://www.mcnallydevelopers.com",
+    "connections": [
+        {
+            "name": "Github",
+            "nick": "paulomcnally",
+            "url": "http://github.com/paulomcnally"
+        },
+        {
+            "name": "Twitter",
+            "nick": "paulomcnally",
+            "url": "http://twitter.com/paulomcnally"
+        }
+    ]
+}
