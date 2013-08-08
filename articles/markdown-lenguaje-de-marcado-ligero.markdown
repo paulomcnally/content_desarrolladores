@@ -13,7 +13,7 @@
 ## Imagen (img)
     ![Soy una imagen](http://domain.com/img.jpg)
 
-    [Soy una imagen](http://domain.com/img.jpg "título")
+    ![Soy una imagen](http://domain.com/img.jpg "título")
 
 
 ## Cabezeras (h1,h2,h3,h4,h5,h6)
