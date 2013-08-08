@@ -1,0 +1,3 @@
+En este programa presentaremos una visión general de las novedades tecnológicas desde el equipo de relaciones para desarrolladores de Latinoamérica. Seguiremos presentando nuestro enfoque de desarrollo, ingeniería y las mejores prácticas para implementar tecnología Google favoreciendo la evolución de soluciones tecnológicas. Luego presentaremos un escenario técnico el "Enfoque Ninja" con nuestro invitado experto en Android +Neto Marín y todas la novedades tecnológicas para la región desde nuestro segundo invitado +Francisco Solsona. Y como siempre la participación de la comunidad de desarrolladores con sorpresas y desafíos.
+
+**Fuente**: [https://developers.google.com/live/shows/871491822](https://developers.google.com/live/shows/871491822)
