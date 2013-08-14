@@ -1,0 +1,14 @@
+{
+    "v": 1,
+    "title": "Coding Dojo Nicaragua Junio 2013",
+    "youtube": {
+        "id": "vRdUqGelMVA"
+    },
+    "date": "2013-06-29 11:05:00",
+    "update": "",
+    "tags": ["desarrollo","android","windows-azure","nodejs","express","jade","socket-io"],
+    "author": "paulomcnally",
+    "repository": "https://github.com/jhon-chavarria/codingdojo-android",
+    "demo": "http://nodejs.clov3r.net/",
+    "type": "hangout"
+}
