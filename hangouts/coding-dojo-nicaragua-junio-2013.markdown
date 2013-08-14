@@ -16,3 +16,5 @@
 
 [http://hsblog.azurewebsites.net/](http://hsblog.azurewebsites.net/)
 
+[Storify - #CodingDojoNi Junio 13 2013](http://storify.com/paulomcnally/codingdojoni-junio-13-2013)
+
