@@ -1,0 +1,14 @@
+{
+    "v": 1,
+    "title": "Aplicación para pestañas en facebook básica usando node.js",
+    "youtube": {
+        "id": "NMuGCukxxyw"
+    },
+    "date": "2013-08-13 23:55:00",
+    "update": "",
+    "tags": ["desarrollo","facebook","tab","nodejs","express","jade"],
+    "author": "paulomcnally",
+    "repository": "https://github.com/paulomcnally/aplicacion-para-pestanas-en-facebook-basica-node.git",
+    "demo": "https://www.facebook.com/mcnallydevelopers/app_153397084866395",
+    "type": "hangout"
+}
