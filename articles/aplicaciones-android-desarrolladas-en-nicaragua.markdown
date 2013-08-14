@@ -1,5 +1,5 @@
-[Aplicaciones Android desarrolladas en Nicaragua](aplicaciones-android-desarrolladas-en-nicaragua)
-==================================================================================================
+[Aplicaciones Android desarrolladas en Nicaragua](/articulo/aplicaciones-android-desarrolladas-en-nicaragua)
+============================================================================================================
 
 ![La Prensa Nicaragua](https://lh3.ggpht.com/rhZqHJTZmxK9ox77-m4WJgPRswqIs6CG51A9Fc5E06S-jJ1A9ycw7AE6adlu4TCbNCkw=w120-rw)
 
