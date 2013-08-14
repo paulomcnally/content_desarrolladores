@@ -1,3 +1,5 @@
+![Coding Dojo Participantes](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/1074202_10151581510678300_87444950_o.jpg)
+
 ### Expositores:
 
 - [Danfer Habed Lopez](https://www.facebook.com/danfer.h.lopez) - Windows Azure
