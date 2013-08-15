@@ -5,7 +5,7 @@
     "update": "",
     "tags": ["nodejs","npm","module","javascript"],
     "author": "paulomcnally",
-    "repository": "",
+    "repository": "https://github.com/paulomcnally/confidencial-ni-node.git",
     "demo": "",
     "type": "manual"
 }
