@@ -1,4 +1,4 @@
-[Como instalar node.js en windows/linux/mac?](/articulo/como-instalar-nodejs-en-windows-linux-mac)
+[Cómo instalar node.js en windows/linux/mac?](/articulo/como-instalar-nodejs-en-windows-linux-mac)
 =================================
 
 [nodejs.org](http://nodejs.org/) reconoce de forma automática nuestro sistema operativo y en el boton "Install" sirve como enlace para descargar la versión más reciente para tu sistema operativo.
