@@ -3,7 +3,7 @@
 
 ![Steven Hansen](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/1175109_502535183161247_363901254_n.jpg)
 
-[Mediarain](http://mediarain.com/), [iQuelo Software Solutions](iquelo.com) y [Daleom](http://daleom.com/), se complacen en invitarlos este sábado 17 de agosto al 3er Coding Dojo Nicaragua.
+[Mediarain](http://mediarain.com/), [iQuelo Software Solutions](http://iquelo.com) y [Daleom](http://daleom.com/), se complacen en invitarlos este sábado 17 de agosto al 3er Coding Dojo Nicaragua.
 
 ## Lugar:
 
