@@ -43,3 +43,10 @@ Esta aplicación permite revisar todas las noticias del dia rapidamente, ademas 
 > - Llamar a servicio al cliente
 > Funciona únicamente para clientes prepago de Claro Nicaragua.
 > ADVERTENCIA: Esta no es una aplicación oficial de Claro Nicaragua
+
+
+![La Gente, Radio La Primerísima](https://lh4.ggpht.com/H_YnWnw8EoswpKMro-NLSpdgCo_2jx8adydINP16OfC4BiEaicoExseF2IqqVXhdfjg=w128-rw)
+
+[La Gente, Radio La Primerísima](https://play.google.com/store/apps/details?id=ni.com.rlp)
+
+> Radio La Primerísima con noticias de Nicaragua y Centroamérica. Lectura de noticias más recientes.
