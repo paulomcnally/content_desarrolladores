@@ -1,4 +1,4 @@
-[Aplicaciones Android desarrolladas en Nicaragua](/articulo/aplicaciones-android-desarrolladas-en-nicaragua)
+[Aplicaciones iOS desarrolladas en Nicaragua](/articulo/aplicaciones-ios-desarrolladas-en-nicaragua)
 ============================================================================================================
 
 ![Confidencial Nicaragua](http://a1.mzstatic.com/us/r1000/001/Purple6/v4/79/3b/30/793b30f8-d4df-ddf1-2ca8-ca12afd9a4a9/mzl.jncvupof.175x175-75.jpg)
