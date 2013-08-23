@@ -20,3 +20,26 @@ Esta aplicación permite revisar todas las noticias del dia rapidamente, ademas 
 [TECHO Nicaragua](https://play.google.com/store/apps/details?id=com.techo.nicaragua)
 
 > TECHO es una organización presente en Latinoamérica y El Caribe que busca superar la situación de pobreza que viven miles de personas en los asentamientos precarios, a través de la acción conjunta de sus pobladores y jóvenes voluntarios.
+
+![Confidencial Nicaragua](https://lh6.ggpht.com/W8CF5nwmxBbRcv-iTA9dC912om4peIE_1LmUTRcLJhDiTEbiHtbjA3jt5gqYnTJOw0M=w128-rw)
+
+[Confidencial Nicaragua](https://play.google.com/store/apps/details?id=confidencial.com.ni)
+
+> El semanario Confidencial circula en Nicaragua desde julio de 1996, como un medio de información y análisis entre un selecto grupo de mil (2,500) suscriptores caracterizados por ser tomadores de decisiones en el ámbito gubernamental, diplomático, sector privado, sociedad civil
+> Confidencial Digital (www.confidencial.com.ni) se relanzó al público el 1 de marzo de 2010, como un periódico digital interactivo y en Diciembre del 2012 cuenta con 898,458 visitantes únicos, certificado por Google Analytics. Más del 45% de nuestra audiencia proviene de Nicaragua, 17 % de EEUU, 5 % de Costa Rica, 4% de México, 4% de España, 3% de Venezuela, 2% de Colombia, y el 24% restante se divide en una veintena de países de Europa y América del Sur.
+
+
+![Servicios Claro Nicaragua](https://lh4.ggpht.com/H_YnWnw8EoswpKMro-NLSpdgCo_2jx8adydINP16OfC4BiEaicoExseF2IqqVXhdfjg=w128-rw)
+
+[Servicios Claro Nicaragua](https://play.google.com/store/apps/details?id=com.wilmata.serviciosclaro)
+
+> Servicios Claro es una aplicación útil para acceder a servicios prepago de Claro Nicaragua.
+> Proporciona una sencilla interfaz para activar los diferentes servicios que se ofrecen tales como:
+> - Activar paquetes de mensajes
+> - Activar paquetes de internet
+> - Activar paquetes de minutos tanto nacionales como a USA, Canadá y Costa Rica
+> - Transferencia de saldos (A través de Pasa Tiempo Claro)
+> - Consulta de saldo
+> - Llamar a servicio al cliente
+> Funciona únicamente para clientes prepago de Claro Nicaragua.
+> ADVERTENCIA: Esta no es una aplicación oficial de Claro Nicaragua
