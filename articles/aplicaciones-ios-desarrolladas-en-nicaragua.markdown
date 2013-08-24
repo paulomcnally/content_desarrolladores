@@ -52,7 +52,7 @@
 [Top S.A](https://itunes.apple.com/us/app/tops-s.a./id601759231?ls=1&mt=8)
 
 > Fundada en 1995, TOPS S.A. es una empresa Nicaraguense líder dedicada a la fabricación e instalación de muebles residenciales, comerciales e institucionales.
- Nuestra gran variedad de productos así como nuestra infraestructura, nos permite ofrecer al cliente una solución integral para su proyecto.
+>  Nuestra gran variedad de productos así como nuestra infraestructura, nos permite ofrecer al cliente una solución integral para su proyecto.
 
 > Beneficios de nuestra aplicación:
 Facilita la comunicacion con nuestra empresa
