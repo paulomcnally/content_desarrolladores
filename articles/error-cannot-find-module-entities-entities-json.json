@@ -1,0 +1,11 @@
+{
+    "v": 1,
+    "title": "Error: Cannot find module './entities/entities.json'",
+    "date": "2013-08-24 07:27:00",
+    "update": "",
+    "tags": ["nodejs","jsdom","node-modules","htmlparser2","javascript"],
+    "author": "paulomcnally",
+    "repository": "",
+    "demo": "",
+    "type": "manual"
+}
