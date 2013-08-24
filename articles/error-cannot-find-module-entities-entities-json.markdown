@@ -33,7 +33,7 @@ Sin embargo suele suceder que el error se muestra en el servidor de producción 
 
 ##La solución:
 
-Recuerda agregar esa carpeta a tu repositorio en git para que el produccion sean descargados o desde producción dentro del modulo [jsdom](https://npmjs.org/package/jsdom) instala los módulos con el siguiente comando:
+Recuerda agregar esa carpeta a tu repositorio en git para que el producción sean descargados o desde producción dentro del modulo [jsdom](https://npmjs.org/package/jsdom) instala los módulos con el siguiente comando:
 
     npm install
 
