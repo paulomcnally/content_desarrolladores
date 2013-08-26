@@ -1,7 +1,7 @@
 [Installar Riak en Linux desde paquete fuente](/articulo/instalar-riak-en-linux-desde-paquete-fuente)
 ====================================================================================================
 
-## ¿Qué es [Raik](http://docs.basho.com/riak/latest/theory/why-riak/#What-is-Riak-)?
+## ¿Qué es [Riak](http://docs.basho.com/riak/latest/theory/why-riak/#What-is-Riak-)?
 > Riak es una base de datos distribuida diseñada para una máxima disponibilidad
 
 
