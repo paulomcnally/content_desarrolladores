@@ -19,9 +19,14 @@
 Y mucho más.
 
 
-
-(https://www.zoho.com/invoice/index.html)[https://www.zoho.com/invoice/index.html]
+[https://www.zoho.com/invoice/index.html](https://www.zoho.com/invoice/index.html)
 
 ![Invoice Zoho](http://i.imgur.com/00wfpzx.png)
 
-**Zoho Invoice** Es una alternativa a FreshBooks gratuita pero que cuenta con planes de [paga](https://www.zoho.com/invoice/pricing/), también esta disponible en versión [web](https://www.zoho.com/invoice/invoices.html) y [móvil]https://www.zoho.com/invoice/invoice-software/mobile-billing.html.
+**Zoho Invoice** Es una alternativa a FreshBooks gratuita pero que cuenta con planes de [paga](https://www.zoho.com/invoice/pricing/), también esta disponible en versión [web](https://www.zoho.com/invoice/invoices.html) y [móvil](https://www.zoho.com/invoice/invoice-software/mobile-billing.html).
+
+Con estas herramientas podras cronomizar el tiempo que tardas en desarrollar algún proyecto, también te permiten crear clientes, proyectos, tareas y facturas.
+
+Podras cobrar por tiempo en consultorías o cobrar por gastos de transporte para reuniones.
+
+Estas herramientas permiten la integración de sitios web de pago para que puedan pagarte desde Paypal por ejemplo.
