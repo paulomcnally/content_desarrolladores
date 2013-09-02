@@ -28,7 +28,7 @@ El Web Service responde lo siguiente:
 
 Esta parte de la aplicación me ha demostrado que cargar Google Maps en un WebView es bastante eficiente, me gusto que el orden de las sucursales es basado en geolocalización. Esta no usa el GPS, usa la ubicación basada en la última ubicación del router o dispositivo del que se conectó vía Wifi nuestro dispositivo android.
 
-Una critica es que en la opción "Ver Direcciones" no lanza al mapa pero en un punto donde carga Centro America y no en las coordenadas de la ubicación de la sucursal.
+Una critica es que en la opción "Ver Direcciones" nos lanza al mapa pero en un punto donde carga Centro America y no en las coordenadas de la ubicación de la sucursal.
 
 Una critica más para el evento **back**, como todos sabran android nos da un botón **atras** en cada dispositivo, esta aplicación maneja los eventos de ir a una pantalla anterior usando el botón en la pantalla el cual funciona a la perfección, pero al usar el botón físico que trae nuestro dispositivo móvil cierra la aplicación, esto pasa por haber cargado una Activity (pantalla) y dentro de ella todo carga como si en un sitio web cargaramos un iframe y dentro de este iframe una web, así que deben tener cuidado de no usar el botón físico si desean ir una pantalla atras en esta aplicación.
 
