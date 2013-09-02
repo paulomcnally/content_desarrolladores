@@ -66,5 +66,8 @@ Se puede desarrollar un app espía que sea tentativa para los usuarios como por 
 
 Lamentablemente no tengo una cuenta en Lafise para saber que datos retorna la autenticación válida y donde almacena estos datos, pero seguire analizando la aplicación.
 
-Nota: Para crear un app espía que lea el log no se requiere root en el dispositivo Android.
-    
+**Nota:** Para crear un app espía que lea el log no se requiere root en el dispositivo Android.
+
+Dejen sus comentarios si tienen preguntas :)
+
+Saludos
