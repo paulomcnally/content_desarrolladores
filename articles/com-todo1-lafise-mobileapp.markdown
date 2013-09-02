@@ -68,6 +68,8 @@ Lamentablemente no tengo una cuenta en Lafise para saber que datos retorna la au
 
 **Nota:** Para crear un app espía que lea el log no se requiere root en el dispositivo Android.
 
+Ver video en youtube: [http://www.youtube.com/watch?v=veE4ZvMqc-Y](http://www.youtube.com/watch?v=veE4ZvMqc-Y)
+
 Dejen sus comentarios si tienen preguntas :)
 
 Saludos
