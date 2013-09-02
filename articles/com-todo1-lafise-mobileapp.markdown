@@ -1,4 +1,5 @@
 [com.todo1.lafise.mobileapp](/articulo/com-todo1-lafise-mobileapp)
+==================================================================
 
 En este artículo analizaremos la aplicación móvil para Android de [Banco Lafise](https://www.lafise.com/default.aspx).
 
