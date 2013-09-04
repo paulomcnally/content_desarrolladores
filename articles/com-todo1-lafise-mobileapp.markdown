@@ -1,7 +1,7 @@
 [com.todo1.lafise.mobileapp](/articulo/com-todo1-lafise-mobileapp)
 ==================================================================
 
-**Actualización:** Septiembre 4, 2013. Versión: 1.0.2 Se solucionó el problema del CordovaLog.
+	**Actualización:** Septiembre 4, 2013. Versión: 1.0.2 Se solucionó el problema del CordovaLog.
 
 En este artículo analizaremos la aplicación móvil para Android de [Banco Lafise](https://www.lafise.com/default.aspx).
 
