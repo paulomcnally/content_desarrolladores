@@ -9,7 +9,7 @@ Si se accede al url [ftp://lagaceta.gob.ni/](ftp://lagaceta.gob.ni/) se ve que n
 
 También se puede acceder al archivo de configuración del antiguo sitio donde se ven datos como la conección a la base de datos. [ftp://lagaceta.gob.ni/old%20sites/configuration.php](ftp://lagaceta.gob.ni/old%20sites/configuration.php).
 
-El o los hackers que hakearon hoy ese sitio usaron una shell subida 10/8/13 7:43:00 PM y se puede acceder este este url: [http://lagaceta.gob.ni/old%20sites/batak.php](http://lagaceta.gob.ni/old%20sites/batak.php).
+El o los hackers que hakearon hoy ese sitio usaron una shell subida 10/8/13 7:43:00 PM y se puede acceder desde este url: [http://lagaceta.gob.ni/old%20sites/batak.php](http://lagaceta.gob.ni/old%20sites/batak.php).
 
 Hay otros sitios en ese mismo servidor:
 
