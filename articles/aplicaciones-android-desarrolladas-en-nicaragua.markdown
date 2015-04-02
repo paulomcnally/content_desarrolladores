@@ -1,6 +1,12 @@
 [Aplicaciones Android desarrolladas en Nicaragua](/articulo/aplicaciones-android-desarrolladas-en-nicaragua)
 ============================================================================================================
 
+![Calculadora de IR & INSS](https://lh3.googleusercontent.com/nsyvzEEOhRRgM0iTvXGAvxaGINh2UjjItrNH-TkZWXkyplPOErLCBr6goPC39IqJoA=w120-rw)
+
+[Calculadora de IR & INSS](https://play.google.com/store/apps/details?id=com.dak42.salary)
+
+> Calcula el IR e INSS que se debe retener basado en tu salario.
+Aplica únicamente a asalariados de Nicaragua.
 
 ![Calculadora IR INSS Nicaragua](https://lh3.ggpht.com/fdKm89N-2KdNkSVskROCXV-BYg2k25fvB8GeE0Y_WfuWexNUwH5JFMA3Ysn1fohm-w=w120-rw)
 
