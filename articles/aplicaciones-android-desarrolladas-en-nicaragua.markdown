@@ -5,6 +5,10 @@
 
 [Infobot](https://play.google.com/store/apps/details?id=com.sheephead.infobot)
 
+> Infobot es un app que te permite acceder en un solo lugar a información práctica y conveniente.
+Desarrollado por Sheep Head Apps, Infobot es un app 100% gratuito y nicaragüense que te brinda información útil como tasa de cambio del Dólar, tendencias en el precio del combustible, Cartelera cinematográfica, Taxis de confianza y una guía con más de 3500 negocios.
+Si es dueño de un negocio puede contactarse con nosotros si quiere saber mas sobre los servicios publicitarios que podemos ofrecerle.
+
 ![La Prensa Nicaragua](https://lh3.ggpht.com/rhZqHJTZmxK9ox77-m4WJgPRswqIs6CG51A9Fc5E06S-jJ1A9ycw7AE6adlu4TCbNCkw=w120-rw)
 
 [La Prensa Nicaragua](https://play.google.com/store/apps/details?id=ni.com.laprensa)
