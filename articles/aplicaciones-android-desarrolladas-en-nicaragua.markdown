@@ -1,6 +1,14 @@
 [Aplicaciones Android desarrolladas en Nicaragua](/articulo/aplicaciones-android-desarrolladas-en-nicaragua)
 ============================================================================================================
 
+
+![Calculadora IR INSS Nicaragua](https://lh3.ggpht.com/fdKm89N-2KdNkSVskROCXV-BYg2k25fvB8GeE0Y_WfuWexNUwH5JFMA3Ysn1fohm-w=w120-rw)
+
+[Calculadora IR INSS Nicaragua](https://play.google.com/store/apps/details?id=com.ismarterapps.calculadorairinssnicaragua)
+
+> Sabías que el cálculo del IR y del INSS ha cambiado un poco? Sabías que en los próximos años irá aumentando también?
+Calculadora IR INSS Nicaragua es una aplicación gratuita para dispositivos móviles que permite realizar el cálculo del Salario y sus deducciones IR e INSS correspondientes sin hacer uso de Internet, utilizando las últimas fórmulas que se estén utilizando en el momento.
+
 ![Infobot](https://lh6.ggpht.com/UYPyvxUZdyZ8ivGeW8gIkwPGWy6Q5e65SnZRduafnhiqN-8mhs5odsrKrkqVNgloxpQ=w120-rw)
 
 [Infobot](https://play.google.com/store/apps/details?id=com.sheephead.infobot)
