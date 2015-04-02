@@ -1,7 +1,8 @@
 [Aplicaciones Android desarrolladas en Nicaragua](/articulo/aplicaciones-android-desarrolladas-en-nicaragua)
 ============================================================================================================
 
-![Infobot](https://lh6.ggpht.com/UYPyvxUZdyZ8ivGeW8gIkwPGWy6Q5e65SnZRduafnhiqN-8mhs5odsrKrkqVNgloxpQ=w300-rw)
+![Infobot](https://lh6.ggpht.com/UYPyvxUZdyZ8ivGeW8gIkwPGWy6Q5e65SnZRduafnhiqN-8mhs5odsrKrkqVNgloxpQ=w120-rw)
+
 [Infobot](https://play.google.com/store/apps/details?id=com.sheephead.infobot)
 
 ![La Prensa Nicaragua](https://lh3.ggpht.com/rhZqHJTZmxK9ox77-m4WJgPRswqIs6CG51A9Fc5E06S-jJ1A9ycw7AE6adlu4TCbNCkw=w120-rw)
